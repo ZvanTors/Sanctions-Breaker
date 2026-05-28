@@ -4,8 +4,6 @@
 
 A modern, lightweight desktop application that helps users bypass internet censorship by automatically testing the latency of multiple Iranian DNS servers and applying the two fastest ones to your selected network interface. No external dependencies required – built entirely with Python's standard library.
 
-![Screenshot](https://via.placeholder.com/600x400?text=Sanctions+Breaker+Screenshot)
-
 ---
 
 ## ✨ Features
@@ -49,7 +47,7 @@ The following Iranian anti‑filter DNS servers are included (latency is tested 
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/sanctions-breaker.git
+   git clone https://github.com/ZvanTors/sanctions-breaker.git
    cd sanctions-breaker
 
 2. **Run the script as Administrator**
